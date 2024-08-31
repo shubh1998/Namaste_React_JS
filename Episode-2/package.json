@@ -1,0 +1,33 @@
+{
+  "name": "my-app",
+  "version": "1.0.0",
+  "description": "My first react app",
+  "scripts": {
+    "test": "jest",
+    "start": "npx parcel ./public/index.html",
+    "build": "npx parcel build ./public/index.html",
+    "serve-build": "serve -s dist"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shubh1998/namaste-react-js.git"
+  },
+  "author": "Shubham Gupta",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/shubh1998/namaste-react-js/issues"
+  },
+  "homepage": "https://github.com/shubh1998/namaste-react-js#readme",
+  "dependencies": {
+    "parcel": "^2.12.0",
+    "react": "^18.3.1",
+    "react-dom": "^18.3.1"
+  },
+  "devDependencies": {
+    "process": "^0.11.10",
+    "serve": "^14.2.3"
+  },
+  "browserslist" : [
+    "last 2 versions"
+  ]
+}
