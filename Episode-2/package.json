@@ -10,14 +10,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/shubh1998/namaste-react-js.git"
+    "url": "git+https://github.com/shubh1998/Namaste_React_JS.git"
   },
   "author": "Shubham Gupta",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/shubh1998/namaste-react-js/issues"
+    "url": "https://github.com/shubh1998/Namaste_React_JS/issues"
   },
-  "homepage": "https://github.com/shubh1998/namaste-react-js#readme",
+  "homepage": "https://github.com/shubh1998/Namaste_React_JS#readme",
   "dependencies": {
     "parcel": "^2.12.0",
     "react": "^18.3.1",
